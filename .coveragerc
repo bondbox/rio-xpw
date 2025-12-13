@@ -1,0 +1,12 @@
+[run]
+omit =
+    rio_xpw/unittest/*
+    rio_xpw/attribute.py
+
+[report]
+exclude_lines =
+    pragma: no cover
+    raise NotImplementedError
+    if __name__ == .__main__.:
+    def __repr__
+    pass
