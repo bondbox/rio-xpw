@@ -1,7 +1,7 @@
 # coding:utf-8
 
 __project__ = "rio-xpw"
-__version__ = "0.1.alpha.1"
+__version__ = "0.1"
 __urlhome__ = "https://github.com/bondbox/rio-xpw/"
 __description__ = "Rio access control based on xpw"
 
