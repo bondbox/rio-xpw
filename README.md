@@ -1,3 +1,3 @@
 # rio-xpw
 
-> Rio access control based on xpw
+> Simple access control for Rio applications based on xpw
